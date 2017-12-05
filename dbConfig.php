@@ -7,10 +7,10 @@
  */
 
 
- $dbhost = "sql204.byethost13.com";
- $dbuser = "b13_20386934";
- $dbpass = "Airtour4";
- $dbname = "b13_20386934_ipra";
+ $dbhost = "DB HOST NAME";
+ $dbuser = "DB USER NAME";
+ $dbpass = "DB PASSWORD";
+ $dbname = "DB NAME";
  
  // Create connection
 $conn = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
